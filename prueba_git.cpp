@@ -3,7 +3,8 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 	
-	cout<<"Hola anto"<<endl;
+	cout<<"-Hola anto"<<endl
+		<<"-Holis"<<endl;
 	
 	return 0;
 }
